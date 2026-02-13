@@ -1,0 +1,21 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Mélanie Tosatti
+N:Tosatti;Mélanie;;;
+
+TITLE:Chef de projet formation & ingénierie pédagogique
+ORG:Consultante communication, marketing & formation
+
+TEL;TYPE=CELL:+33634028856
+EMAIL;TYPE=WORK:melanie.tosatti@neuf.fr
+
+URL:https://melanie-tosatti.fr
+URL:https://www.linkedin.com/in/melanie-tosatti
+
+ADR;TYPE=WORK:;;3 rue des Grouettes;Gargenville;;78440;France
+
+NOTE:Profil hybride associant ingénierie pédagogique, stratégie formation, communication et accompagnement des publics. Ouverte aux opportunités correspondant à mes compétences et valeurs professionnelles.
+
+PHOTO;VALUE=URI:https://melanie-tosatti.fr/wp-content/uploads/2024/10/cropped-logo.png
+
+END:VCARD
